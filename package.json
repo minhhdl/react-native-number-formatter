@@ -6,6 +6,13 @@
   "scripts": {
     "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhhdl/react-native-number-formatter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minhhdl/react-native-number-formatter/issues"
+  },
   "author": "Minh Huynh",
   "license": "ISC"
 }
